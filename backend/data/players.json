@@ -1,0 +1,1907 @@
+[
+  {
+    "_id": "player_virat_kohli",
+    "id": "virat_kohli",
+    "name": "Virat Kohli",
+    "image": "/images/virat_kohli.jpg",
+    "nationality": "Indian",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "jerseyNumber": 18,
+    "age": 37,
+    "previousTeam": "N/A",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 210000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2025,
+    "retained": true,
+    "status": "Playing",
+    "generalInfo": {
+      "fullName": "Virat Kohli",
+      "dob": "Nov 05, 1988",
+      "height": "1.75 m",
+      "role": "Batsman"
+    },
+    "battingStats": {
+      "matches": 275,
+      "innings": 267,
+      "runs": 8644,
+      "highestScore": "113*",
+      "average": 41.1,
+      "strikeRate": 131.97,
+      "fifties": 55,
+      "hundreds": 8,
+      "boundaries": 756,
+      "sixes": 298,
+      "ducks": 10,
+      "notOuts": 37
+    },
+    "bowlingStats": {
+      "overs": 48.1,
+      "maidens": 0,
+      "wickets": 4,
+      "economy": 8.8,
+      "average": 92,
+      "bestBowling": "2/25",
+      "strikeRate": 72.2,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 120,
+      "runOuts": 15,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 15,
+        "runs": 405,
+        "wickets": 0,
+        "strikeRate": 119.46,
+        "economy": 0,
+        "average": 28.92,
+        "catches": 8,
+        "potmAwards": 0
+      },
+      {
+        "season": 2022,
+        "matches": 16,
+        "runs": 341,
+        "wickets": 0,
+        "strikeRate": 115.98,
+        "economy": 0,
+        "average": 22.73,
+        "catches": 9,
+        "potmAwards": 1
+      },
+      {
+        "season": 2023,
+        "matches": 14,
+        "runs": 639,
+        "wickets": 0,
+        "strikeRate": 139.82,
+        "economy": 0,
+        "average": 53.25,
+        "catches": 6,
+        "potmAwards": 2
+      },
+      {
+        "season": 2024,
+        "matches": 15,
+        "runs": 741,
+        "wickets": 0,
+        "strikeRate": 154.69,
+        "economy": 0,
+        "average": 61.75,
+        "catches": 8,
+        "potmAwards": 3
+      },
+      {
+        "season": 2025,
+        "matches": 14,
+        "runs": 510,
+        "wickets": 0,
+        "strikeRate": 145.2,
+        "economy": 0,
+        "average": 42.5,
+        "catches": 5,
+        "potmAwards": 1
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 640,
+        "wickets": 0,
+        "strikeRate": 154.2,
+        "economy": 0,
+        "average": 53.33,
+        "catches": 8,
+        "potmAwards": 2
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2021,
+        "basePrice": 150000000,
+        "finalPrice": 170000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "N/A"
+      },
+      {
+        "year": 2022,
+        "basePrice": 150000000,
+        "finalPrice": 150000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "RCB"
+      },
+      {
+        "year": 2025,
+        "basePrice": 20000000,
+        "finalPrice": 210000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "RCB"
+      }
+    ]
+  },
+  {
+    "_id": "player_faf_du_plessis",
+    "id": "faf_du_plessis",
+    "name": "Faf du Plessis",
+    "image": "/images/faf_du_plessis.jpg",
+    "nationality": "Overseas",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "jerseyNumber": 13,
+    "age": 41,
+    "previousTeam": "Chennai Super Kings",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 70000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2022,
+    "retained": false,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Francois du Plessis",
+      "dob": "Jul 13, 1984",
+      "height": "1.80 m",
+      "role": "Batsman"
+    },
+    "battingStats": {
+      "matches": 160,
+      "innings": 153,
+      "runs": 4966,
+      "highestScore": "96",
+      "average": 39.4,
+      "strikeRate": 136.3,
+      "fifties": 37,
+      "hundreds": 0,
+      "boundaries": 437,
+      "sixes": 181,
+      "ducks": 8,
+      "notOuts": 12
+    },
+    "bowlingStats": {
+      "overs": 6,
+      "maidens": 0,
+      "wickets": 0,
+      "economy": 9.5,
+      "average": 0,
+      "bestBowling": "0/3",
+      "strikeRate": 0,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 88,
+      "runOuts": 9,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 16,
+        "runs": 633,
+        "wickets": 0,
+        "strikeRate": 138.2,
+        "economy": 0,
+        "average": 45.21,
+        "catches": 12,
+        "potmAwards": 2
+      },
+      {
+        "season": 2022,
+        "matches": 16,
+        "runs": 468,
+        "wickets": 0,
+        "strikeRate": 127.52,
+        "economy": 0,
+        "average": 31.2,
+        "catches": 7,
+        "potmAwards": 1
+      },
+      {
+        "season": 2023,
+        "matches": 14,
+        "runs": 730,
+        "wickets": 0,
+        "strikeRate": 153.68,
+        "economy": 0,
+        "average": 56.15,
+        "catches": 5,
+        "potmAwards": 2
+      },
+      {
+        "season": 2024,
+        "matches": 15,
+        "runs": 438,
+        "wickets": 0,
+        "strikeRate": 161.62,
+        "economy": 0,
+        "average": 29.2,
+        "catches": 10,
+        "potmAwards": 1
+      },
+      {
+        "season": 2025,
+        "matches": 14,
+        "runs": 380,
+        "wickets": 0,
+        "strikeRate": 142.1,
+        "economy": 0,
+        "average": 29.22,
+        "catches": 6,
+        "potmAwards": 0
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 395,
+        "wickets": 0,
+        "strikeRate": 139.5,
+        "economy": 0,
+        "average": 28.21,
+        "catches": 6,
+        "potmAwards": 0
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2022,
+        "basePrice": 20000000,
+        "finalPrice": 70000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Chennai Super Kings"
+      }
+    ]
+  },
+  {
+    "_id": "player_glenn_maxwell",
+    "id": "glenn_maxwell",
+    "name": "Glenn Maxwell",
+    "image": "/images/glenn_maxwell.jpg",
+    "nationality": "Overseas",
+    "role": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "jerseyNumber": 32,
+    "age": 37,
+    "previousTeam": "Punjab Kings",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 110000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2022,
+    "retained": true,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Glenn James Maxwell",
+      "dob": "Oct 14, 1988",
+      "height": "1.82 m",
+      "role": "All-rounder"
+    },
+    "battingStats": {
+      "matches": 152,
+      "innings": 147,
+      "runs": 3120,
+      "highestScore": "95",
+      "average": 26.8,
+      "strikeRate": 155.8,
+      "fifties": 18,
+      "hundreds": 0,
+      "boundaries": 265,
+      "sixes": 169,
+      "ducks": 14,
+      "notOuts": 17
+    },
+    "bowlingStats": {
+      "overs": 232.4,
+      "maidens": 1,
+      "wickets": 47,
+      "economy": 8.35,
+      "average": 36,
+      "bestBowling": "2/15",
+      "strikeRate": 27.9,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 55,
+      "runOuts": 11,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 15,
+        "runs": 513,
+        "wickets": 3,
+        "strikeRate": 144.1,
+        "economy": 8.43,
+        "average": 42.75,
+        "catches": 6,
+        "potmAwards": 2
+      },
+      {
+        "season": 2022,
+        "matches": 13,
+        "runs": 301,
+        "wickets": 6,
+        "strikeRate": 169.1,
+        "economy": 6.87,
+        "average": 27.36,
+        "catches": 5,
+        "potmAwards": 1
+      },
+      {
+        "season": 2023,
+        "matches": 14,
+        "runs": 400,
+        "wickets": 3,
+        "strikeRate": 183.49,
+        "economy": 8.92,
+        "average": 33.33,
+        "catches": 7,
+        "potmAwards": 1
+      },
+      {
+        "season": 2024,
+        "matches": 10,
+        "runs": 52,
+        "wickets": 6,
+        "strikeRate": 120.93,
+        "economy": 8.05,
+        "average": 5.78,
+        "catches": 4,
+        "potmAwards": 0
+      },
+      {
+        "season": 2025,
+        "matches": 14,
+        "runs": 180,
+        "wickets": 8,
+        "strikeRate": 138.5,
+        "economy": 8.5,
+        "average": 20,
+        "catches": 6,
+        "potmAwards": 0
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 280,
+        "wickets": 10,
+        "strikeRate": 156.4,
+        "economy": 8.1,
+        "average": 25.45,
+        "catches": 7,
+        "potmAwards": 1
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2021,
+        "basePrice": 20000000,
+        "finalPrice": 142500000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Punjab Kings"
+      },
+      {
+        "year": 2022,
+        "basePrice": 110000000,
+        "finalPrice": 110000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "RCB"
+      }
+    ]
+  },
+  {
+    "_id": "player_mohammed_siraj",
+    "id": "mohammed_siraj",
+    "name": "Mohammed Siraj",
+    "image": "/images/mohammed_siraj.jpg",
+    "nationality": "Indian",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "jerseyNumber": 73,
+    "age": 32,
+    "previousTeam": "Sunrisers Hyderabad",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 140000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2025,
+    "retained": true,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Mohammed Siraj",
+      "dob": "Mar 13, 1994",
+      "height": "1.78 m",
+      "role": "Bowler"
+    },
+    "battingStats": {
+      "matches": 108,
+      "innings": 47,
+      "runs": 123,
+      "highestScore": "14*",
+      "average": 8,
+      "strikeRate": 82.5,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 7,
+      "sixes": 3,
+      "ducks": 5,
+      "notOuts": 18
+    },
+    "bowlingStats": {
+      "overs": 398.2,
+      "maidens": 7,
+      "wickets": 109,
+      "economy": 8.6,
+      "average": 30.9,
+      "bestBowling": "4/21",
+      "strikeRate": 21.8,
+      "fourWickets": 2,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 35,
+      "runOuts": 4,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 15,
+        "runs": 0,
+        "wickets": 11,
+        "strikeRate": 30,
+        "economy": 6.78,
+        "average": 32.18,
+        "catches": 3,
+        "potmAwards": 0
+      },
+      {
+        "season": 2022,
+        "matches": 15,
+        "runs": 10,
+        "wickets": 9,
+        "strikeRate": 34,
+        "economy": 10.07,
+        "average": 57.11,
+        "catches": 4,
+        "potmAwards": 0
+      },
+      {
+        "season": 2023,
+        "matches": 14,
+        "runs": 1,
+        "wickets": 19,
+        "strikeRate": 16.6,
+        "economy": 7.5,
+        "average": 19.73,
+        "catches": 2,
+        "potmAwards": 1
+      },
+      {
+        "season": 2024,
+        "matches": 14,
+        "runs": 19,
+        "wickets": 15,
+        "strikeRate": 20,
+        "economy": 9.18,
+        "average": 33.06,
+        "catches": 5,
+        "potmAwards": 0
+      },
+      {
+        "season": 2025,
+        "matches": 14,
+        "runs": 8,
+        "wickets": 14,
+        "strikeRate": 22.4,
+        "economy": 8.4,
+        "average": 28.5,
+        "catches": 4,
+        "potmAwards": 1
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 12,
+        "wickets": 16,
+        "strikeRate": 21,
+        "economy": 8.2,
+        "average": 29.3,
+        "catches": 5,
+        "potmAwards": 1
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2021,
+        "basePrice": 26000000,
+        "finalPrice": 26000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "N/A"
+      },
+      {
+        "year": 2022,
+        "basePrice": 70000000,
+        "finalPrice": 70000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "RCB"
+      },
+      {
+        "year": 2025,
+        "basePrice": 20000000,
+        "finalPrice": 140000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "RCB"
+      }
+    ]
+  },
+  {
+    "_id": "player_dinesh_karthik",
+    "id": "dinesh_karthik",
+    "name": "Dinesh Karthik",
+    "image": "/images/dinesh_karthik.jpg",
+    "nationality": "Indian",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "jerseyNumber": 19,
+    "age": 40,
+    "previousTeam": "Kolkata Knight Riders",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 55000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2022,
+    "retained": false,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Dinesh Karthik",
+      "dob": "Jun 01, 1985",
+      "height": "1.73 m",
+      "role": "Wicketkeeper-Batsman"
+    },
+    "battingStats": {
+      "matches": 256,
+      "innings": 234,
+      "runs": 4842,
+      "highestScore": "97*",
+      "average": 26.6,
+      "strikeRate": 135.3,
+      "fifties": 22,
+      "hundreds": 0,
+      "boundaries": 466,
+      "sixes": 161,
+      "ducks": 17,
+      "notOuts": 50
+    },
+    "bowlingStats": {
+      "overs": 0,
+      "maidens": 0,
+      "wickets": 0,
+      "economy": 0,
+      "average": 0,
+      "bestBowling": "N/A",
+      "strikeRate": 0,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 145,
+      "runOuts": 14,
+      "stumpings": 38
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 17,
+        "runs": 223,
+        "wickets": 0,
+        "strikeRate": 131.1,
+        "economy": 0,
+        "average": 22.3,
+        "catches": 9,
+        "potmAwards": 0
+      },
+      {
+        "season": 2022,
+        "matches": 16,
+        "runs": 330,
+        "wickets": 0,
+        "strikeRate": 183.33,
+        "economy": 0,
+        "average": 55,
+        "catches": 9,
+        "potmAwards": 2
+      },
+      {
+        "season": 2023,
+        "matches": 15,
+        "runs": 140,
+        "wickets": 0,
+        "strikeRate": 134.61,
+        "economy": 0,
+        "average": 11.66,
+        "catches": 5,
+        "potmAwards": 0
+      },
+      {
+        "season": 2024,
+        "matches": 15,
+        "runs": 326,
+        "wickets": 0,
+        "strikeRate": 187.35,
+        "economy": 0,
+        "average": 36.22,
+        "catches": 8,
+        "potmAwards": 1
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2022,
+        "basePrice": 20000000,
+        "finalPrice": 55000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Kolkata Knight Riders"
+      }
+    ]
+  },
+  {
+    "_id": "player_harshal_patel",
+    "id": "harshal_patel",
+    "name": "Harshal Patel",
+    "image": "/images/harshal_patel.png",
+    "nationality": "Indian",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "jerseyNumber": 30,
+    "age": 35,
+    "previousTeam": "Delhi Capitals",
+    "currentTeam": "Punjab Kings",
+    "auctionPrice": 107500000,
+    "basePrice": 20000000,
+    "purchaseYear": 2022,
+    "retained": false,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Harshal Patel",
+      "dob": "Nov 23, 1990",
+      "height": "1.75 m",
+      "role": "Bowler"
+    },
+    "battingStats": {
+      "matches": 102,
+      "innings": 48,
+      "runs": 286,
+      "highestScore": "36*",
+      "average": 9.5,
+      "strikeRate": 128.5,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 16,
+      "sixes": 15,
+      "ducks": 7,
+      "notOuts": 15
+    },
+    "bowlingStats": {
+      "overs": 345.5,
+      "maidens": 2,
+      "wickets": 135,
+      "economy": 8.6,
+      "average": 22.8,
+      "bestBowling": "5/27",
+      "strikeRate": 15.3,
+      "fourWickets": 2,
+      "fiveWickets": 2
+    },
+    "fieldingStats": {
+      "catches": 28,
+      "runOuts": 5,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 15,
+        "runs": 59,
+        "wickets": 32,
+        "strikeRate": 9.5,
+        "economy": 8.14,
+        "average": 14.34,
+        "catches": 4,
+        "potmAwards": 3
+      },
+      {
+        "season": 2022,
+        "matches": 15,
+        "runs": 30,
+        "wickets": 19,
+        "strikeRate": 17.3,
+        "economy": 7.66,
+        "average": 21.57,
+        "catches": 3,
+        "potmAwards": 1
+      },
+      {
+        "season": 2023,
+        "matches": 13,
+        "runs": 20,
+        "wickets": 14,
+        "strikeRate": 18,
+        "economy": 9.66,
+        "average": 32.42,
+        "catches": 2,
+        "potmAwards": 0
+      },
+      {
+        "season": 2024,
+        "matches": 14,
+        "runs": 45,
+        "wickets": 24,
+        "strikeRate": 12.2,
+        "economy": 9.73,
+        "average": 19.87,
+        "catches": 3,
+        "potmAwards": 2
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2022,
+        "basePrice": 20000000,
+        "finalPrice": 107500000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Delhi Capitals"
+      }
+    ]
+  },
+  {
+    "_id": "player_wanindu_hasaranga",
+    "id": "wanindu_hasaranga",
+    "name": "Wanindu Hasaranga",
+    "image": "/images/wanindu_hasaranga.jpg",
+    "nationality": "Overseas",
+    "role": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "jerseyNumber": 49,
+    "age": 28,
+    "previousTeam": "N/A",
+    "currentTeam": "Sunrisers Hyderabad",
+    "auctionPrice": 107500000,
+    "basePrice": 10000000,
+    "purchaseYear": 2022,
+    "retained": false,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Pinnaduwage Wanindu Hasaranga de Silva",
+      "dob": "Jul 29, 1997",
+      "height": "1.73 m",
+      "role": "All-rounder"
+    },
+    "battingStats": {
+      "matches": 45,
+      "innings": 36,
+      "runs": 240,
+      "highestScore": "18",
+      "average": 12.7,
+      "strikeRate": 104.8,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 19,
+      "sixes": 9,
+      "ducks": 3,
+      "notOuts": 5
+    },
+    "bowlingStats": {
+      "overs": 158.4,
+      "maidens": 1,
+      "wickets": 57,
+      "economy": 8.13,
+      "average": 21.8,
+      "bestBowling": "5/18",
+      "strikeRate": 15.1,
+      "fourWickets": 1,
+      "fiveWickets": 1
+    },
+    "fieldingStats": {
+      "catches": 16,
+      "runOuts": 2,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 2,
+        "runs": 1,
+        "wickets": 0,
+        "strikeRate": 0,
+        "economy": 10,
+        "average": 0,
+        "catches": 0,
+        "potmAwards": 0
+      },
+      {
+        "season": 2022,
+        "matches": 16,
+        "runs": 38,
+        "wickets": 26,
+        "strikeRate": 88.37,
+        "economy": 7.54,
+        "average": 16.53,
+        "catches": 6,
+        "potmAwards": 1
+      },
+      {
+        "season": 2023,
+        "matches": 8,
+        "runs": 33,
+        "wickets": 9,
+        "strikeRate": 117.85,
+        "economy": 8.89,
+        "average": 28.66,
+        "catches": 3,
+        "potmAwards": 0
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 110,
+        "wickets": 18,
+        "strikeRate": 125,
+        "economy": 8,
+        "average": 24.5,
+        "catches": 4,
+        "potmAwards": 1
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2022,
+        "basePrice": 10000000,
+        "finalPrice": 107500000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "N/A"
+      }
+    ]
+  },
+  {
+    "_id": "player_rajat_patidar",
+    "id": "rajat_patidar",
+    "name": "Rajat Patidar",
+    "image": "/images/rajat_patidar.jpg",
+    "nationality": "Indian",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "jerseyNumber": 97,
+    "age": 32,
+    "previousTeam": "N/A",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 110000000,
+    "basePrice": 2000000,
+    "purchaseYear": 2025,
+    "retained": true,
+    "status": "Playing",
+    "generalInfo": {
+      "fullName": "Rajat Patidar",
+      "dob": "Jun 01, 1993",
+      "height": "1.78 m",
+      "role": "Batsman"
+    },
+    "battingStats": {
+      "matches": 53,
+      "innings": 50,
+      "runs": 1532,
+      "highestScore": "112*",
+      "average": 45.5,
+      "strikeRate": 146.5,
+      "fifties": 7,
+      "hundreds": 1,
+      "boundaries": 118,
+      "sixes": 78,
+      "ducks": 2,
+      "notOuts": 3
+    },
+    "bowlingStats": {
+      "overs": 0,
+      "maidens": 0,
+      "wickets": 0,
+      "economy": 0,
+      "average": 0,
+      "bestBowling": "N/A",
+      "strikeRate": 0,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 20,
+      "runOuts": 1,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 4,
+        "runs": 71,
+        "wickets": 0,
+        "strikeRate": 104.41,
+        "economy": 0,
+        "average": 17.75,
+        "catches": 2,
+        "potmAwards": 0
+      },
+      {
+        "season": 2022,
+        "matches": 8,
+        "runs": 333,
+        "wickets": 0,
+        "strikeRate": 152.75,
+        "economy": 0,
+        "average": 55.5,
+        "catches": 4,
+        "potmAwards": 1
+      },
+      {
+        "season": 2024,
+        "matches": 15,
+        "runs": 395,
+        "wickets": 0,
+        "strikeRate": 177.13,
+        "economy": 0,
+        "average": 30.38,
+        "catches": 5,
+        "potmAwards": 1
+      },
+      {
+        "season": 2025,
+        "matches": 14,
+        "runs": 321,
+        "wickets": 0,
+        "strikeRate": 140.2,
+        "economy": 0,
+        "average": 26.75,
+        "catches": 4,
+        "potmAwards": 0
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 412,
+        "wickets": 0,
+        "strikeRate": 146.8,
+        "economy": 0,
+        "average": 34.33,
+        "catches": 5,
+        "potmAwards": 1
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2021,
+        "basePrice": 2000000,
+        "finalPrice": 2000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "N/A"
+      },
+      {
+        "year": 2022,
+        "basePrice": 2000000,
+        "finalPrice": 2000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "RCB"
+      },
+      {
+        "year": 2025,
+        "basePrice": 20000000,
+        "finalPrice": 110000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "RCB"
+      }
+    ]
+  },
+  {
+    "_id": "player_cameron_green",
+    "id": "cameron_green",
+    "name": "Cameron Green",
+    "image": "/images/cameron_green.jpg",
+    "nationality": "Overseas",
+    "role": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "jerseyNumber": 4,
+    "age": 26,
+    "previousTeam": "Mumbai Indians",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 175000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2024,
+    "retained": false,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Cameron Donald Green",
+      "dob": "Jun 03, 1999",
+      "height": "1.98 m",
+      "role": "All-rounder"
+    },
+    "battingStats": {
+      "matches": 44,
+      "innings": 43,
+      "runs": 1189,
+      "highestScore": "100*",
+      "average": 50.8,
+      "strikeRate": 148.22,
+      "fifties": 3,
+      "hundreds": 1,
+      "boundaries": 103,
+      "sixes": 50,
+      "ducks": 1,
+      "notOuts": 8
+    },
+    "bowlingStats": {
+      "overs": 131.3,
+      "maidens": 0,
+      "wickets": 28,
+      "economy": 9.15,
+      "average": 40.5,
+      "bestBowling": "2/12",
+      "strikeRate": 26.8,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 22,
+      "runOuts": 2,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2023,
+        "matches": 16,
+        "runs": 452,
+        "wickets": 6,
+        "strikeRate": 160.28,
+        "economy": 9.5,
+        "average": 50.22,
+        "catches": 9,
+        "potmAwards": 1
+      },
+      {
+        "season": 2024,
+        "matches": 13,
+        "runs": 255,
+        "wickets": 10,
+        "strikeRate": 143.25,
+        "economy": 8.61,
+        "average": 31.87,
+        "catches": 5,
+        "potmAwards": 1
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 482,
+        "wickets": 12,
+        "strikeRate": 152.4,
+        "economy": 8.9,
+        "average": 40.18,
+        "catches": 8,
+        "potmAwards": 2
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2024,
+        "basePrice": 20000000,
+        "finalPrice": 175000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Mumbai Indians"
+      }
+    ]
+  },
+  {
+    "_id": "player_yash_dayal",
+    "id": "yash_dayal",
+    "name": "Yash Dayal",
+    "image": "/images/yash_dayal.png",
+    "nationality": "Indian",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "jerseyNumber": 56,
+    "age": 28,
+    "previousTeam": "Gujarat Titans",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 50000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2024,
+    "retained": true,
+    "status": "Playing",
+    "generalInfo": {
+      "fullName": "Yash Dayal",
+      "dob": "Dec 13, 1997",
+      "height": "1.80 m",
+      "role": "Bowler"
+    },
+    "battingStats": {
+      "matches": 45,
+      "innings": 19,
+      "runs": 4,
+      "highestScore": "1*",
+      "average": 2,
+      "strikeRate": 40,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 0,
+      "sixes": 0,
+      "ducks": 1,
+      "notOuts": 3
+    },
+    "bowlingStats": {
+      "overs": 168.2,
+      "wishkets": 32,
+      "wickets": 53,
+      "economy": 8.95,
+      "average": 27.3,
+      "bestBowling": "3/20",
+      "strikeRate": 20.3,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 11,
+      "runOuts": 0,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2022,
+        "matches": 9,
+        "runs": 0,
+        "wickets": 11,
+        "strikeRate": 17.45,
+        "economy": 9.25,
+        "average": 26.9,
+        "catches": 2,
+        "potmAwards": 0
+      },
+      {
+        "season": 2023,
+        "matches": 5,
+        "runs": 0,
+        "wickets": 2,
+        "strikeRate": 54,
+        "economy": 11.78,
+        "average": 106,
+        "catches": 1,
+        "potmAwards": 0
+      },
+      {
+        "season": 2024,
+        "matches": 14,
+        "runs": 2,
+        "wickets": 15,
+        "strikeRate": 21.8,
+        "economy": 9.15,
+        "average": 33.26,
+        "catches": 4,
+        "potmAwards": 1
+      },
+      {
+        "season": 2025,
+        "matches": 14,
+        "runs": 0,
+        "wickets": 13,
+        "strikeRate": 24,
+        "economy": 8.5,
+        "average": 34,
+        "catches": 2,
+        "potmAwards": 0
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 2,
+        "wickets": 21,
+        "strikeRate": 19.5,
+        "economy": 8.4,
+        "average": 22.8,
+        "catches": 3,
+        "potmAwards": 2
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2024,
+        "basePrice": 20000000,
+        "finalPrice": 50000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Gujarat Titans"
+      },
+      {
+        "year": 2025,
+        "basePrice": 50000000,
+        "finalPrice": 50000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "RCB"
+      }
+    ]
+  },
+  {
+    "_id": "player_yuzvendra_chahal",
+    "id": "yuzvendra_chahal",
+    "name": "Yuzvendra Chahal",
+    "image": "/images/yuzvendra_chahal.jpg",
+    "nationality": "Indian",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "jerseyNumber": 3,
+    "age": 35,
+    "previousTeam": "Royal Challengers Bengaluru",
+    "currentTeam": "Rajasthan Royals",
+    "auctionPrice": 65000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2022,
+    "retained": false,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Yuzvendra Singh Chahal",
+      "dob": "Jul 23, 1990",
+      "height": "1.68 m",
+      "role": "Bowler"
+    },
+    "battingStats": {
+      "matches": 175,
+      "innings": 37,
+      "runs": 37,
+      "highestScore": "4*",
+      "average": 3.9,
+      "strikeRate": 45.3,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 2,
+      "sixes": 0,
+      "ducks": 4,
+      "notOuts": 13
+    },
+    "bowlingStats": {
+      "overs": 640.4,
+      "maidens": 4,
+      "wickets": 219,
+      "economy": 7.7,
+      "average": 22.5,
+      "bestBowling": "5/40",
+      "strikeRate": 17.4,
+      "fourWickets": 4,
+      "fiveWickets": 1
+    },
+    "fieldingStats": {
+      "catches": 37,
+      "runOuts": 6,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 15,
+        "runs": 10,
+        "wickets": 18,
+        "strikeRate": 17.3,
+        "economy": 7.05,
+        "average": 20.77,
+        "catches": 2,
+        "potmAwards": 1
+      },
+      {
+        "season": 2022,
+        "matches": 17,
+        "runs": 5,
+        "wickets": 27,
+        "strikeRate": 15.1,
+        "economy": 7.75,
+        "average": 19.51,
+        "catches": 5,
+        "potmAwards": 2
+      },
+      {
+        "season": 2023,
+        "matches": 14,
+        "runs": 2,
+        "wickets": 21,
+        "strikeRate": 15.4,
+        "economy": 8.18,
+        "average": 20.57,
+        "catches": 4,
+        "potmAwards": 1
+      },
+      {
+        "season": 2024,
+        "matches": 15,
+        "runs": 0,
+        "wickets": 14,
+        "strikeRate": 23.1,
+        "economy": 8.84,
+        "average": 34.07,
+        "catches": 3,
+        "potmAwards": 0
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 0,
+        "wickets": 19,
+        "strikeRate": 18,
+        "economy": 7.9,
+        "average": 23.4,
+        "catches": 2,
+        "potmAwards": 1
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2021,
+        "basePrice": 60000000,
+        "finalPrice": 60000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "N/A"
+      }
+    ]
+  },
+  {
+    "_id": "player_ab_de_villiers",
+    "id": "ab_de_villiers",
+    "name": "AB de Villiers",
+    "image": "/images/ab_de_villiers.jpg",
+    "nationality": "Overseas",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "jerseyNumber": 17,
+    "age": 42,
+    "previousTeam": "Delhi Daredevils",
+    "currentTeam": "Retired",
+    "auctionPrice": 110000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2018,
+    "retained": true,
+    "status": "Released",
+    "generalInfo": {
+      "fullName": "Abraham Benjamin de Villiers",
+      "dob": "Feb 17, 1984",
+      "height": "1.78 m",
+      "role": "Batsman"
+    },
+    "battingStats": {
+      "matches": 184,
+      "innings": 170,
+      "runs": 5162,
+      "highestScore": "133*",
+      "average": 39.7,
+      "strikeRate": 151.68,
+      "fifties": 40,
+      "hundreds": 3,
+      "boundaries": 413,
+      "sixes": 251,
+      "ducks": 10,
+      "notOuts": 40
+    },
+    "bowlingStats": {
+      "overs": 0,
+      "maidens": 0,
+      "wickets": 0,
+      "economy": 0,
+      "average": 0,
+      "bestBowling": "N/A",
+      "strikeRate": 0,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 118,
+      "runOuts": 14,
+      "stumpings": 7
+    },
+    "seasonStats": [
+      {
+        "season": 2021,
+        "matches": 15,
+        "runs": 313,
+        "wickets": 0,
+        "strikeRate": 148.34,
+        "economy": 0,
+        "average": 31.3,
+        "catches": 11,
+        "potmAwards": 2
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2021,
+        "basePrice": 110000000,
+        "finalPrice": 110000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Retained",
+        "previousFranchise": "N/A"
+      }
+    ]
+  },
+  {
+    "_id": "player_jitesh_sharma",
+    "id": "jitesh_sharma",
+    "name": "Jitesh Sharma",
+    "image": "/images/jitesh_sharma.png",
+    "nationality": "Indian",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "jerseyNumber": 99,
+    "age": 32,
+    "previousTeam": "Punjab Kings",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 110000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2025,
+    "retained": true,
+    "status": "Playing",
+    "generalInfo": {
+      "fullName": "Jitesh Sharma",
+      "dob": "Oct 22, 1993",
+      "height": "1.73 m",
+      "role": "Wicketkeeper-Batsman"
+    },
+    "battingStats": {
+      "matches": 65,
+      "innings": 58,
+      "runs": 1390,
+      "highestScore": "49*",
+      "average": 25.8,
+      "strikeRate": 145.6,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 112,
+      "sixes": 64,
+      "ducks": 3,
+      "notOuts": 8
+    },
+    "bowlingStats": {
+      "overs": 0,
+      "maidens": 0,
+      "wickets": 0,
+      "economy": 0,
+      "average": 0,
+      "bestBowling": "N/A",
+      "strikeRate": 0,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 38,
+      "runOuts": 5,
+      "stumpings": 9
+    },
+    "seasonStats": [
+      {
+        "season": 2025,
+        "matches": 17,
+        "runs": 380,
+        "wickets": 0,
+        "strikeRate": 152,
+        "economy": 0,
+        "average": 29.23,
+        "catches": 14,
+        "stumpings": 4
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 290,
+        "wickets": 0,
+        "strikeRate": 142.1,
+        "economy": 0,
+        "average": 22.3,
+        "catches": 11,
+        "stumpings": 2
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2025,
+        "basePrice": 20000000,
+        "finalPrice": 110000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Punjab Kings"
+      }
+    ]
+  },
+  {
+    "_id": "player_bhuvneshwar_kumar",
+    "id": "bhuvneshwar_kumar",
+    "name": "Bhuvneshwar Kumar",
+    "image": "/images/bhuvneshwar_kumar.jpg",
+    "nationality": "Indian",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "jerseyNumber": 15,
+    "age": 36,
+    "previousTeam": "Sunrisers Hyderabad",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 107500000,
+    "basePrice": 20000000,
+    "purchaseYear": 2025,
+    "retained": true,
+    "status": "Playing",
+    "generalInfo": {
+      "fullName": "Bhuvneshwar Kumar Singh",
+      "dob": "Feb 05, 1990",
+      "height": "1.78 m",
+      "role": "Bowler"
+    },
+    "battingStats": {
+      "matches": 182,
+      "innings": 68,
+      "runs": 298,
+      "highestScore": "24*",
+      "average": 8.5,
+      "strikeRate": 92.4,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 22,
+      "sixes": 6,
+      "ducks": 8,
+      "notOuts": 28
+    },
+    "bowlingStats": {
+      "overs": 662.4,
+      "maidens": 12,
+      "wickets": 195,
+      "economy": 7.45,
+      "average": 25.4,
+      "bestBowling": "5/19",
+      "strikeRate": 20.4,
+      "fourWickets": 2,
+      "fiveWickets": 2
+    },
+    "fieldingStats": {
+      "catches": 42,
+      "runOuts": 9,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2025,
+        "matches": 17,
+        "runs": 15,
+        "wickets": 18,
+        "strikeRate": 105,
+        "economy": 7.2,
+        "average": 24.2,
+        "catches": 5,
+        "potmAwards": 1
+      },
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 8,
+        "wickets": 15,
+        "strikeRate": 90,
+        "economy": 7.5,
+        "average": 28.5,
+        "catches": 3,
+        "potmAwards": 0
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2025,
+        "basePrice": 20000000,
+        "finalPrice": 107500000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Sunrisers Hyderabad"
+      }
+    ]
+  },
+  {
+    "_id": "player_venkatesh_iyer",
+    "id": "venkatesh_iyer",
+    "name": "Venkatesh Iyer",
+    "image": "/images/venkatesh_iyer.jpg",
+    "nationality": "Indian",
+    "role": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "jerseyNumber": 41,
+    "age": 31,
+    "previousTeam": "Kolkata Knight Riders",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 70000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2026,
+    "retained": false,
+    "status": "Playing",
+    "generalInfo": {
+      "fullName": "Venkatesh Rajasekaran Iyer",
+      "dob": "Dec 25, 1994",
+      "height": "1.83 m",
+      "role": "All-rounder"
+    },
+    "battingStats": {
+      "matches": 65,
+      "innings": 62,
+      "runs": 1560,
+      "highestScore": "104",
+      "average": 28.9,
+      "strikeRate": 135.8,
+      "fifties": 11,
+      "hundreds": 1,
+      "boundaries": 138,
+      "sixes": 66,
+      "ducks": 4,
+      "notOuts": 6
+    },
+    "bowlingStats": {
+      "overs": 38.5,
+      "maidens": 0,
+      "wickets": 7,
+      "economy": 8.7,
+      "average": 42.1,
+      "bestBowling": "2/17",
+      "strikeRate": 33.2,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 22,
+      "runOuts": 3,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2026,
+        "matches": 15,
+        "runs": 340,
+        "wickets": 4,
+        "strikeRate": 142.5,
+        "economy": 8.5,
+        "average": 30.9,
+        "catches": 8
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2026,
+        "basePrice": 20000000,
+        "finalPrice": 70000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Kolkata Knight Riders"
+      }
+    ]
+  },
+  {
+    "_id": "player_jacob_duffy",
+    "id": "jacob_duffy",
+    "name": "Jacob Duffy",
+    "image": "/images/jacob_duffy.jpg",
+    "nationality": "Overseas",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "jerseyNumber": 9,
+    "age": 31,
+    "previousTeam": "N/A",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 20000000,
+    "basePrice": 20000000,
+    "purchaseYear": 2026,
+    "retained": false,
+    "status": "Playing",
+    "generalInfo": {
+      "fullName": "Jacob Andrew Duffy",
+      "dob": "Aug 02, 1994",
+      "height": "1.85 m",
+      "role": "Bowler"
+    },
+    "battingStats": {
+      "matches": 8,
+      "innings": 2,
+      "runs": 2,
+      "highestScore": "1*",
+      "average": 2,
+      "strikeRate": 50,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 0,
+      "sixes": 0,
+      "ducks": 0,
+      "notOuts": 1
+    },
+    "bowlingStats": {
+      "overs": 32,
+      "maidens": 0,
+      "wickets": 9,
+      "economy": 8.9,
+      "average": 31,
+      "bestBowling": "2/22",
+      "strikeRate": 21.3,
+      "fourWickets": 0,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 2,
+      "runOuts": 0,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2026,
+        "matches": 8,
+        "runs": 2,
+        "wickets": 9,
+        "strikeRate": 50,
+        "economy": 8.9,
+        "average": 31,
+        "catches": 2
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2026,
+        "basePrice": 20000000,
+        "finalPrice": 20000000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "N/A"
+      }
+    ]
+  },
+  {
+    "_id": "player_josh_hazlewood",
+    "id": "josh_hazlewood",
+    "name": "Josh Hazlewood",
+    "image": "/images/josh_hazlewood.jpg",
+    "nationality": "Overseas",
+    "role": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "jerseyNumber": 38,
+    "age": 35,
+    "previousTeam": "Chennai Super Kings",
+    "currentTeam": "Royal Challengers Bengaluru",
+    "auctionPrice": 77500000,
+    "basePrice": 20000000,
+    "purchaseYear": 2022,
+    "retained": true,
+    "status": "Playing",
+    "generalInfo": {
+      "fullName": "Joshua Reginald Hazlewood",
+      "dob": "Jan 08, 1991",
+      "height": "1.96 m",
+      "role": "Bowler"
+    },
+    "battingStats": {
+      "matches": 40,
+      "innings": 10,
+      "runs": 22,
+      "highestScore": "7*",
+      "average": 4.4,
+      "strikeRate": 78.5,
+      "fifties": 0,
+      "hundreds": 0,
+      "boundaries": 2,
+      "sixes": 0,
+      "ducks": 2,
+      "notOuts": 5
+    },
+    "bowlingStats": {
+      "overs": 150,
+      "maidens": 3,
+      "wickets": 45,
+      "economy": 8.02,
+      "average": 26.5,
+      "bestBowling": "4/25",
+      "strikeRate": 19.8,
+      "fourWickets": 1,
+      "fiveWickets": 0
+    },
+    "fieldingStats": {
+      "catches": 8,
+      "runOuts": 1,
+      "stumpings": 0
+    },
+    "seasonStats": [
+      {
+        "season": 2022,
+        "matches": 12,
+        "runs": 0,
+        "wickets": 20,
+        "strikeRate": 0,
+        "economy": 8.1,
+        "average": 18.85,
+        "catches": 2,
+        "potmAwards": 1
+      },
+      {
+        "season": 2023,
+        "matches": 3,
+        "runs": 0,
+        "wickets": 3,
+        "strikeRate": 0,
+        "economy": 8.4,
+        "average": 25.33,
+        "catches": 1,
+        "potmAwards": 0
+      },
+      {
+        "season": 2026,
+        "matches": 12,
+        "runs": 2,
+        "wickets": 14,
+        "strikeRate": 50,
+        "economy": 8.2,
+        "average": 26.5,
+        "catches": 2,
+        "potmAwards": 1
+      }
+    ],
+    "auctionHistory": [
+      {
+        "year": 2022,
+        "basePrice": 20000000,
+        "finalPrice": 77500000,
+        "boughtBy": "RCB",
+        "retainedOrAuction": "Auction Purchase",
+        "previousFranchise": "Chennai Super Kings"
+      }
+    ]
+  }
+]
